@@ -1,0 +1,15 @@
+@mixin MAN400 {
+  font-family: "Manrope-Regular", sans-serif;
+  font-weight: 400;
+}
+
+
+@mixin MAN600 {
+  font-family: "Manrope-SemiBold", sans-serif;
+  font-weight: 600;
+}
+
+
+@mixin accent-color {
+  color: #ffffff;
+}
